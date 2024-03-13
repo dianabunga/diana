@@ -1,6 +1,6 @@
 {
-  "name": "dianabunga",
-  "version": "1.1.5",
+  "name": "@dianabunga/dianabunga",
+  "version": "1.1.7",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -8,9 +8,10 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "dianabunga": "^1.1.4",
+    "daming": "^1.1.5",
+    "dianabunga": "^1.1.6",
     "gunandi": "^1.1.4",
-    "johirin": "^1.1.4",
+    "johirin": "^1.1.5",
     "kimcil": "^1.1.4",
     "kusnan": "^1.1.4",
     "marvina": "^1.1.4",
@@ -20,7 +21,7 @@
     "rembulan": "^1.1.4",
     "rifqi": "^1.1.4",
     "senjaya": "^1.1.4",
-    "sinuka": "^1.1.4",
+    "sinuka": "^1.1.5",
     "varensia": "^1.1.4"
   },
   "devDependencies": {
@@ -38,7 +39,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dianabunga/diana"
+    "url": "git+https://github.com/dianabunga/diana.git"
   },
   "author": "",
   "license": "ISC",
